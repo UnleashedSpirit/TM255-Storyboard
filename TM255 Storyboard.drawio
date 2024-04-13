@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T12:26:24.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.5" etag="4E6GeFnLheMoT9PyEvjs" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T12:38:43.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="fV4UrTY49br4Jg8sAxo1" version="24.2.5" type="github">
   <diagram name="Page-1" id="KSvXzQ_aJg47bpq4D-PZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1339" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zx11W-kYvncsqH0juOZe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="820" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="zx11W-kYvncsqH0juOZe-3" value="Reds Seaside Holiday Park" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="650" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
